@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "url": "https://vpn.lie2srvv.com/",
+      "order": 0,
+      "title": "LieVPN",
+      "schema": 1,
+      "exclude_locales": [],
+      "exclude_regions": [],
+      "include_locales": [],
+      "include_regions": [],
+      "exclude_experiments": [],
+      "include_experiments": [],
+      "id": "",
+      "last_modified": 1
+    },
+    {
+      "url": "https://cord.lie2srvv.com/",
+      "order": 1,
+      "title": "LieCord",
+      "schema": 1,
+      "exclude_locales": [],
+      "exclude_regions": [],
+      "include_locales": [],
+      "include_regions": [],
+      "exclude_experiments": [],
+      "include_experiments": [],
+      "id": "",
+      "last_modified": 1
+    },
+    {
+      "url": "https://mail.lie2srvv.com/",
+      "order": 2,
+      "title": "LieMail",
+      "schema": 1,
+      "exclude_locales": [],
+      "exclude_regions": [],
+      "include_locales": [],
+      "include_regions": [],
+      "exclude_experiments": [],
+      "include_experiments": [],
+      "id": "",
+      "last_modified": 1
+    },
+    {
+      "url": "https://lie2srvv.t.me/",
+      "order": 3,
+      "title": "Telegram",
+      "schema": 1,
+      "exclude_locales": [],
+      "exclude_regions": [],
+      "include_locales": [],
+      "include_regions": [],
+      "exclude_experiments": [],
+      "include_experiments": [],
+      "id": "",
+      "last_modified": 1
+    }
+  ]
+}

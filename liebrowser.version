@@ -1,0 +1,4 @@
+# LieBrowser Application Version
+# Change VERSION_NAME and increment VERSION_CODE for new releases
+VERSION_NAME=1.0.1
+VERSION_CODE=2016191750
