@@ -8,6 +8,23 @@
   <b>Fast, privacy-focused Android browser based on GeckoView and Fenix without tracking or telemetry.</b>
 </p>
 
+<p align="center">
+  <a href="https://browser.lie2srvv.com"><img src="https://img.shields.io/badge/Download_APK-browser.lie2srvv.com-10b981?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" /></a>
+  <a href="https://search.lie2srvv.com"><img src="https://img.shields.io/badge/Search_Engine-LieWeb-3b82f6?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="LieWeb Search" /></a>
+  <a href="https://github.com/lie2srvv/LieBrowser/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MPL_2.0-8b5cf6?style=for-the-badge" alt="License" /></a>
+</p>
+
+---
+
+## 📥 Download
+
+Prebuilt, ready-to-install Android packages are available directly from the official mirror:
+
+| Channel | Direct Link | Architecture |
+| :--- | :--- | :--- |
+| **Official Release APK** | [**browser.lie2srvv.com/LieBrowser.apk**](https://browser.lie2srvv.com/LieBrowser.apk) | `arm64-v8a` (Universal 64-bit Android) |
+| **Web Portal** | [**browser.lie2srvv.com**](https://browser.lie2srvv.com) | Overview & downloads |
+
 ---
 
 ## 🚀 About the Project
